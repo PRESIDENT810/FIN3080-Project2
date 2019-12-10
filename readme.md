@@ -1,14 +1,3 @@
----
-title: "FIN3080 Project 2 Report"
-author: YIN Jie\and DENG Ziying\and ZHONG Kaining
-date: November 10, 2019
-geometry: "left=2.57cm,right=2.57cm,top=2.54cm,bottom=2.54cm"
-output: pdf_document
----
-
-Content
----
-\Large
 * Markowitz Portfolio Optimization
 	* Q(1a). Mean and Covariance Matrix
 	* Q(1b): Efficient Frontier
